@@ -15,6 +15,7 @@ public class Script1Google {
 		// TODO Auto-generated method stub
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.seleniumhq.org");
+		System.out.println("jenkins and github committed");
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getTitle());
 		driver.close();
