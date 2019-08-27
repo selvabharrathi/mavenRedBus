@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10869" started-at="2019-08-27T08:27:54Z" finished-at="2019-08-27T08:28:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10869" started-at="2019-08-27T08:27:54Z" finished-at="2019-08-27T08:28:05Z">
+      <class name="redbus.Script1Google">
+        <test-method status="PASS" signature="test()[pri:0, instance:redbus.Script1Google@34d63f]" name="test" duration-ms="10845" started-at="2019-08-27T13:57:54Z" finished-at="2019-08-27T13:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- redbus.Script1Google -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
